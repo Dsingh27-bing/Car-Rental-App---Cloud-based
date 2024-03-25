@@ -6,6 +6,7 @@ Skills Used:
 HTML
 CSS
 Bootstrap
+YAML 
 
 App.py:
 Flask
